@@ -103,6 +103,6 @@
     "vite-plugin-html": "^3.2.2",
     "vite-tsconfig-paths": "^5.0.1",
     "vitepress": "^1.4.3",
-    "vitest": "^2.1.4"
+    "vitest": "^3.2.6"
   }
 }
